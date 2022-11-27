@@ -1,4 +1,4 @@
-Привет, меня зовут Екатерина!
+### :fire: Привет, меня зовут Екатерина!
 
 - 👀 Учусь писать чистый и понятный код
 - 🌱 Осваиваюсь в абсолютном новом для себя мире программирования
@@ -7,9 +7,7 @@
 
 Спустя несколько месяцев учёбы создаю проекты на основе CCS3, HTML5, JavaScript, БЭМ, ООП.
 
-Контакты:
-Email: ekat3rina-velichko@yandex.ru
-Telegram: VelichkoE
+### :fire: Технологии :       
 
 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
@@ -20,6 +18,18 @@ Telegram: VelichkoE
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### :fire: My Stats :       
+### :fire: Контакты :       
+
+
+<div id="badges">
+  <a href="https://vk.com/velka96">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+  </a>
+  <a href="https://t.me/VelichkoE">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
+### :fire: Статистика :       
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Evelichko)](https://git.io/streak-stats)
 ![hippo](https://media3.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif)
